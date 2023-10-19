@@ -6,6 +6,7 @@ export default function Home() {
       <div className="texto">
       <h1>Bem Vindo a Papa Churrascaria!</h1>
       <br />
+      <br />
       <h2>Onde a familiaridade significa tudo!</h2>
       </div>
     </div>

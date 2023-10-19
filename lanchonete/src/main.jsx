@@ -6,7 +6,7 @@ import App from './App.jsx';
 
 import { createBrowserRouter, RouterProvider } from 'react-router-dom';
 import Home from './routes/Home/Home.jsx';
-import Cardapio from "./routes/Cardapio.jsx"
+import Cardapio from "./routes/Cardapio/Cardapio.jsx"
 import Error from "./routes/Erro404.jsx"
 
 
