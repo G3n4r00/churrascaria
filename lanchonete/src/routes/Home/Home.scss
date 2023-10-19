@@ -1,0 +1,26 @@
+
+.geral {
+    height: 100%;
+    width: 60%;
+    position: relative;
+  }
+
+  .image {
+    position: absolute;
+    left: 0;
+    top: 0;
+    height: 800px;
+  }
+
+  .texto {
+    z-index: 100;
+    position: absolute;
+    color: white;
+    font-size: 24px;
+    font-weight: bold;
+    left: 150px;
+    top: 350px;
+    color: rgb(138, 34, 34);
+    font-style: italic;
+    font-style: oblique;
+  }
